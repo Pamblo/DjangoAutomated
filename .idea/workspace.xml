@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ca2f658-e49b-48e6-9a8e-ced182d166a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/empleado.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/empleado.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/departamento/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/departamento/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/departamento/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/departamento/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/empleados/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/empleados/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/empleados/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/empleados/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/empleados/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/empleados/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/home/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/home/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/empleado/settings/configBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/empleado/settings/configBase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empleado/settings/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/empleado/settings/local.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/empleado/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/empleado/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/paixela/Desktop/CursoPython/Django/empleado/templates/home",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
