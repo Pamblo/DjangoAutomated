@@ -9,10 +9,12 @@ admin.site.register(Habilidades)
 class EmpleadoAdmin(admin.ModelAdmin):
 
     list_display = (
+        'id',
         'nombre',
         'apellidos',
         'trabajo',
-        'departamento'
+        'departamento',
+        'full_name'
     )
     search_fields = (
         'nombre',

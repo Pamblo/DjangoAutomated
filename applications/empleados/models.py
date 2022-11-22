@@ -26,6 +26,7 @@ class Empleado(models.Model):
 
     nombre = models.CharField('Nombre', max_length=30)
     apellidos = models.CharField('Apellidos', max_length=60)
+    full_name = models.CharField('Nombre completo', max_length=120, blank=True)
     trabajo = models.CharField('Trabajo', max_length=1, choices=(trabajos))
     departamento = models.ForeignKey(Departamento, on_delete=models.CASCADE)
     habilidades = models.ManyToManyField(Habilidades)
@@ -40,5 +41,5 @@ class Empleado(models.Model):
 
     def __str__(self):
 
-        return str(self.nombre) + '-' + str(self.apellidos)
+        return str(self.id) + "-" + str(self.nombre) + '-' + str(self.apellidos)
 

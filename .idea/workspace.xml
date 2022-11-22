@@ -6,18 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1ca2f658-e49b-48e6-9a8e-ced182d166a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/departamento/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/departamento/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/departamento/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/departamento/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/empleados/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/empleados/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/empleados/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/empleados/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/empleados/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/empleados/url.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/empleados/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/empleados/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/home/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/home/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/home/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/empleado/settings/configBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/empleado/settings/configBase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/empleado/settings/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/empleado/settings/local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/empleado/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/empleado/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/empleados/list_by_area.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/empleados/list_by_area.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/paixela/Desktop/CursoPython/Django/empleado/templates/home",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/paixela/Desktop/CursoPython/Django/empleado/templates/home&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\paixela\Desktop\CursoPython\Django\empleado\templates\home" />
@@ -59,8 +57,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668533112047</updated>
+      <workItem from="1668709510268" duration="244000" />
+      <workItem from="1668709764185" duration="208000" />
+      <workItem from="1668709981904" duration="4554000" />
+      <workItem from="1668765511548" duration="4727000" />
+      <workItem from="1669037318427" duration="3475000" />
+      <workItem from="1669057262792" duration="438000" />
+      <workItem from="1669115435796" duration="929000" />
+      <workItem from="1669116381995" duration="4874000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
